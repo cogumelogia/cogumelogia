@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cogumelogia (Cauê Oliveira)
-- 👀 I’m interested in programing, biology and teaching
+- 👀 I’m interested in programming, biology, science and teaching
 - 🌱 I’m currently learning Full Stack Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cogumelogia@gmail.com
